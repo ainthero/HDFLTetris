@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/ainthero/source/repos/tetrIZ/tetrIZ/Content/active.png","C:/Users/ainthero/source/repos/tetrIZ/tetrIZ/Content/bin/Windows/active.xnb","TextureProcessor","Texture2DContent",4588,4181,0,1146932
+"C:/Users/ainthero/source/repos/tetrIZ/tetrIZ/Content/clr.png","C:/Users/ainthero/source/repos/tetrIZ/tetrIZ/Content/bin/Windows/clr.xnb","TextureProcessor","Texture2DContent",724,341,0,0069814
+"C:/Users/ainthero/source/repos/tetrIZ/tetrIZ/Content/death.png","C:/Users/ainthero/source/repos/tetrIZ/tetrIZ/Content/bin/Windows/death.xnb","TextureProcessor","Texture2DContent",21835,1440085,0,0518942
+"C:/Users/ainthero/source/repos/tetrIZ/tetrIZ/Content/score.spritefont","C:/Users/ainthero/source/repos/tetrIZ/tetrIZ/Content/bin/Windows/score.xnb","FontDescriptionProcessor","SpriteFontContent",2011,21521,0,1755291
+"C:/Users/ainthero/source/repos/tetrIZ/tetrIZ/Content/tetr.png","C:/Users/ainthero/source/repos/tetrIZ/tetrIZ/Content/bin/Windows/tetr.xnb","TextureProcessor","Texture2DContent",4588,4181,0,006017

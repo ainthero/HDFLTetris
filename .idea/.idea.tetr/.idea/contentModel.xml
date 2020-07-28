@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.1/resharper-host/local/Transient/ReSharperHost/v201/SolutionCaches/_tetr.-281544056.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="tetr" t="IncludeRecursive">
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+          <e p="active.png" t="Include" />
+          <e p="bin" t="Include">
+            <e p="DesktopGL" t="Include">
+              <e p="Content" t="Include">
+                <e p="active.xnb" t="Include" />
+                <e p="clr.xnb" t="Include" />
+                <e p="death.xnb" t="Include" />
+                <e p="score.xnb" t="Include" />
+                <e p="tetr.xnb" t="Include" />
+              </e>
+            </e>
+            <e p="Windows" t="Include">
+              <e p="Content" t="Include">
+                <e p="active.xnb" t="Include" />
+                <e p="clr.xnb" t="Include" />
+                <e p="death.xnb" t="Include" />
+                <e p="score.xnb" t="Include" />
+                <e p="tetr.xnb" t="Include" />
+              </e>
+              <e p="active.xnb" t="Include" />
+              <e p="clr.xnb" t="Include" />
+              <e p="death.xnb" t="Include" />
+              <e p="score.xnb" t="Include" />
+              <e p="tetr.xnb" t="Include" />
+            </e>
+          </e>
+          <e p="clr.png" t="Include" />
+          <e p="death.png" t="Include" />
+          <e p="font.ttf" t="Include" />
+          <e p="obj" t="Include">
+            <e p="DesktopGL" t="Include">
+              <e p="Content" t="Include">
+                <e p=".mgcontent" t="Include" />
+                <e p="active.mgcontent" t="Include" />
+                <e p="clr.mgcontent" t="Include" />
+                <e p="death.mgcontent" t="Include" />
+                <e p="score.mgcontent" t="Include" />
+                <e p="tetr.mgcontent" t="Include" />
+              </e>
+            </e>
+            <e p="Windows" t="Include">
+              <e p=".mgcontent" t="Include" />
+              <e p=".mgstats" t="Include" />
+              <e p="Content" t="Include">
+                <e p=".mgcontent" t="Include" />
+                <e p=".mgstats" t="Include" />
+                <e p="active.mgcontent" t="Include" />
+                <e p="clr.mgcontent" t="Include" />
+                <e p="death.mgcontent" t="Include" />
+                <e p="score.mgcontent" t="Include" />
+                <e p="tetr.mgcontent" t="Include" />
+              </e>
+              <e p="active.mgcontent" t="Include" />
+              <e p="clr.mgcontent" t="Include" />
+              <e p="death.mgcontent" t="Include" />
+              <e p="score.mgcontent" t="Include" />
+              <e p="tetr.mgcontent" t="Include" />
+            </e>
+          </e>
+          <e p="score.spritefont" t="Include" />
+          <e p="tetr.png" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="tetr.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="tetr.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="tetr.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
